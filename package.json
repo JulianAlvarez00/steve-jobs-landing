@@ -1,0 +1,26 @@
+{
+  "name": "steve-jobs-landing",
+  "version": "1.0.0",
+  "description": "Steve Jobs Biography Landing Page",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10",
+    "typescript": "^4.9.5"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 0.5%",
+    "not dead"
+  ]
+}
